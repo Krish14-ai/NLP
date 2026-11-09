@@ -13,3 +13,20 @@ The workspace contains multiple mini-projects that cover common NLP workflows su
 - Spam detection
 - Resume classification
 
+## Included Projects
+
+### 1. Bag_of_Words
+Contains notebooks for exploring Bag-of-Words and N-gram based text representation techniques.
+
+### 2. Imbd classification
+Focuses on IMDb review classification using preprocessing and a machine learning model pipeline.
+
+### 3. News Article Classification
+Uses a news dataset to classify articles into categories such as business, entertainment, sports, and technology.
+
+### 4. Resume Classifier
+Classifies resumes into categories using a text-based dataset and NLP preprocessing methods.
+
+### 5. Spam Detection
+Builds a SMS spam detection model to distinguish spam and legitimate messages.
+
