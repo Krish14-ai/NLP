@@ -44,3 +44,13 @@ NLP Practice/
 └── .venv/
 ```
 
+## Tech Stack
+
+- Python
+- Jupyter Notebook
+- Pandas
+- NumPy
+- Scikit-learn
+- NLTK
+- Matplotlib / Seaborn
+
