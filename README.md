@@ -54,3 +54,27 @@ NLP Practice/
 - NLTK
 - Matplotlib / Seaborn
 
+## Getting Started
+
+1. Clone the repository:
+
+```bash
+git clone <repository-url>
+cd "NLP Practice"
+```
+
+2. Create and activate a virtual environment:
+
+```bash
+python -m venv .venv
+.venv\Scripts\activate
+```
+
+3. Install the required dependencies:
+
+```bash
+pip install jupyter pandas numpy scikit-learn nltk matplotlib seaborn
+```
+
+4. Open the notebooks in Jupyter or VS Code and run the cells.
+
