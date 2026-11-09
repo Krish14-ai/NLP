@@ -78,3 +78,21 @@ pip install jupyter pandas numpy scikit-learn nltk matplotlib seaborn
 
 4. Open the notebooks in Jupyter or VS Code and run the cells.
 
+## Usage
+
+Each project folder contains its own dataset and notebook. Open the relevant notebook and follow the workflow:
+
+- Load the dataset
+- Clean and preprocess text
+- Split data into train/test sets
+- Transform text into features
+- Train a classifier
+- Evaluate the model
+
+## Notes
+
+This repository is intended as a practical learning workspace for NLP fundamentals and beginner-level text classification experiments. It is ideal for improving skills in data preprocessing, machine learning pipelines, and model evaluation.
+
+## License
+
+This project is for educational and personal learning purposes.
