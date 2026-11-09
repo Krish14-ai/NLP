@@ -30,3 +30,17 @@ Classifies resumes into categories using a text-based dataset and NLP preprocess
 ### 5. Spam Detection
 Builds a SMS spam detection model to distinguish spam and legitimate messages.
 
+## Repository Structure
+
+```text
+NLP Practice/
+├── README.md
+├── NLP-/
+│   ├── Bag_of_Words/
+│   ├── Imbd classification/
+│   ├── News Article Classification/
+│   ├── Resume Classifier/
+│   └── Spam Detection/
+└── .venv/
+```
+
